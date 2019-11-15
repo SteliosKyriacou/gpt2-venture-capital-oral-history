@@ -16,7 +16,7 @@ Question ("How did it all start?"):
 
 ## To run the model
 1) Download the basic model my runing : download.py
-2) Download the finetunes model from https://drive.google.com/file/d/1-7fm-M1ESOBsZva2YkKcgDm5o0gFMfkN/view?usp=sharing and unzip in current the directory
+2) Download the finetuned model from https://drive.google.com/file/d/1-7fm-M1ESOBsZva2YkKcgDm5o0gFMfkN/view?usp=sharing and unzip in current the directory
 3) Run use.py
 
 ## Acknowledgement: 
