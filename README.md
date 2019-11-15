@@ -15,7 +15,7 @@ Question ("How did it all start?"):
 - "Myers: Too early in venture capital. There’s a lot of money to invest. You don’t want to jump generations into the enterprise.I’m told today that some venture capitalists are really good at money. And they lost a lot of it."
 
 ## To run the model
-1) Download the basic model my runing : download.py
+1) Download the basic model by runing : download.py
 2) Download the finetuned model from https://drive.google.com/file/d/1-7fm-M1ESOBsZva2YkKcgDm5o0gFMfkN/view?usp=sharing and unzip in current the directory
 3) Run use.py
 
