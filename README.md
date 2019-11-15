@@ -1,4 +1,4 @@
-# Just for fun: podt number 1 :)
+# Just for fun: post number 1 :)
 	
 Reading about the recent release of openai's [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) and having recently read through Berkeley's ["Venture Capitalists Oral History Project"](https://bancroft.berkeley.edu/ROHO/projects/vc/transcripts.html) I decided to finetune the former with the latter. Below are the first responses I got from it ;p
 
