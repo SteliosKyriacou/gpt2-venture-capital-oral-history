@@ -1,6 +1,6 @@
 # Just for fun: post number 1 :)
 	
-Reading about the recent release of openai's [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) and having recently read through Berkeley's ["Venture Capitalists Oral History Project"](https://bancroft.berkeley.edu/ROHO/projects/vc/transcripts.html) I decided to finetune the former with the latter. Below are its first responses.
+Reading about the recent release of openai's [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) and having recently read through Berkeley's ["Venture Capitalists Oral History Project"](https://bancroft.berkeley.edu/ROHO/projects/vc/transcripts.html) I decided to finetune the former with the latter. Below are its first responses (LOL).
 
 Question ("How did it all start?"):
 - "Robertson: Well, I was an early investor; I was at Adage until ’51 when we made the decision that we wanted to continue with the family partnership rather than make another investment decision. And so, at the time, Adage was probably the best place to begin in terms of attracting young, good people. The business turned out—again, it was a very complicated business to pull in all kinds of background. There were people doing all kinds of things. There were pension—I remember the pay-to-play scandal that occurred there in the early ’50s probably is one of the oldest."
