@@ -14,7 +14,6 @@ while True:
               length=250,
               temperature=0.7,
               prefix=raw_text,
-            
             #   prefix='Interviewer: Whats your attitude towards risk as a ventrure capitalist?',
               nsamples=5,
               batch_size=5,
