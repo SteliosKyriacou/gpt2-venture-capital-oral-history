@@ -21,4 +21,5 @@ Question ("How did it all start?"):
 
 ## Acknowledgement: 
 The above was based on  Max Woolf's work here [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple).
+
 p.s. thanks for making this so easy man! 
